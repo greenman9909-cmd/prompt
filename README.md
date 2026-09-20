@@ -395,3 +395,10 @@ The code must be complete and runnable from a fresh clone.
 Comments only where non-obvious. Clean, production-ready code.
 
 Ship the full working implementation and thorough documentation in one pass.
+
+
+---
+
+### Support
+
+If you enjoy this project and want to support more builds, you can optionally [support me on Ko-fi](https://ko-fi.com/yorusayano).
